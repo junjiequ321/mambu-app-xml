@@ -4,9 +4,7 @@
     <n>Grameen Mambu Integration-test</n>
     <provider>Grameen</provider>
     <description>Grameen integration with Mambu platform</description>
-    
-    <!-- Centre View extension point - this will appear as a tab under Centers -->
-    <extensionpoint>
+        <extensionpoint>
         <location>CENTRE_VIEW</location>
         <label>Grameen App Test</label>
         <url>https://webhook.site/f8ac7b55-0690-4cf7-ac15-9e80cadcf12b</url>
