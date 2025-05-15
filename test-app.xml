@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <app>
-    <id>grameen-mambu-app</id>
-    <name>Grameen Mambu Integration</name>
+    <id>grameen-mambu-app-test</id>
+    <name>Grameen Mambu Integration-test</name>
     <provider>Grameen</provider>
     <description>Grameen integration with Mambu platform</description>
     
     <extensionpoint>
         <location>CENTRE_VIEW</location>
-        <label>Grameen App</label>
+        <label>Grameen App Test</label>
         <url>https://webhook.site/f8ac7b55-0690-4cf7-ac15-9e80cadcf12b</url>
     </extensionpoint>
 </app>
