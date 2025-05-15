@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <app>
     <id>grameen-mambu-app</id>
-    <n>Grameen Mambu Integration</n>
+    <name>Grameen Mambu Integration</name>
     <provider>Grameen</provider>
     <description>Grameen integration with Mambu platform</description>
     
