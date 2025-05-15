@@ -2,7 +2,7 @@
 <app>
     <id>grameen-mambu-app-test</id>
     <name>Grameen Mambu Integration-test</name>
-    <provider>Grameen</provider>
+    <provider>Grameen Test</provider>
     <description>Grameen integration with Mambu platform</description>
     
     <extensionpoint>
