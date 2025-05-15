@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <app>
     <id>grameen-mambu-app</id>
     <name>Grameen Mambu Integration</name>
     <provider>Grameen</provider>
     <description>Grameen integration with Mambu platform</description>
     
-    <!-- Centre View extension point - this will appear as a tab under Centers -->
     <extensionpoint>
         <location>CENTRE_VIEW</location>
         <label>Grameen App</label>
