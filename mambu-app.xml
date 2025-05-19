@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <app>
     <id>grameen-mambu-app</id>
-    <name>Grameen Mambu Integration</name>
+    <name>Transfer Member</name>
     <provider>Grameen</provider>
-    <description>Grameen integration with Mambu platform</description>
+    <description>App integration with Mambu platform</description>
     
     <extensionpoint>
         <location>CENTRE_VIEW</location>
-        <label>Grameen App</label>
+        <label>Transfer Member</label>
         <url>https://grameen-app-b4dsfhasfbg7crfa.centralus-01.azurewebsites.net/app</url>
     </extensionpoint>
 </app>
