@@ -7,7 +7,7 @@
     
     <extensionpoint>
         <location>CENTRE_VIEW</location>
-        <label>Transfer Member</label>
+        <label>Transfer RM</label>
         <url>https://grameen-app-b4dsfhasfbg7crfa.centralus-01.azurewebsites.net/app</url>
     </extensionpoint>
 </app>
