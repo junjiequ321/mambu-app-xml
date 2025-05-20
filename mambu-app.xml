@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <app>
     <id>grameen-mambu-app</id>
-    <name>Transfer Member</name>
+    <name>Transfer RM</name>
     <provider>Grameen</provider>
     <description>App integration with Mambu platform</description>
     
